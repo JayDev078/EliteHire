@@ -8,6 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "build": "react-scripts build",
+  "start": "react-scripts start"
   },
   "dependencies": {
     "@clerk/clerk-react": "^5.20.0",
